@@ -7,7 +7,7 @@
 
 This prototype makes AI project execution **visible → accountable → measurable → actionable → predictable**.
 It is deliberately not a Jira/Trello/ERP clone: there are no boards, no ticket taxonomies, no timesheets.
-It does one job — govern the delivery of AI and software initiatives across Anwar Group.
+It does one job, govern the delivery of AI and software initiatives.
 
 ---
 
